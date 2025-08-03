@@ -1,4 +1,3 @@
-````markdown
 # 🎬 Movie Search App — React + Appwrite
 
 A simple and responsive **movie search application** built using **React** for the frontend and **Appwrite** for backend services. This app allows users to:
@@ -127,5 +126,3 @@ This project is licensed under the [MIT License](LICENSE).
 * [Appwrite](https://appwrite.io/)
 * [TMDB API](https://www.themoviedb.org/documentation/api)
 * [Hostinger](https://www.hostinger.com/)
-
-```
