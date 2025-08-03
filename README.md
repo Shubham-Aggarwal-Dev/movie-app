@@ -116,7 +116,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Shubham Aggarwal**
-[GitHub](https://github.com/shubhamagg) • [LinkedIn](https://www.linkedin.com/in/shubham-aggarwal/)
+[GitHub](https://github.com/Shubham-Aggarwal-Dev) • [LinkedIn](https://www.linkedin.com/in/shubham654321/)
 
 ---
 
